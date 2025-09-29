@@ -18,6 +18,8 @@ I think perhaps improving photography skills can enhance the accuracy of the mod
 ## 3
 In class, I used a 3D printer for the first time on my own. Our group initially printed a very simple small cylinder, only 2 cm tall, so the printing was quite fast and finished within a few minutes. 
 在课上我第一次自己使用3D打印机进行打印，我们小组最开始打印了一个很简单的小圆柱体，它的高度只有2厘米，所以打印得比较快，几分钟就打印完毕了。
+![](file/13.jpg)
+![](file/14.jpg)
 ## 4
 When working on my individual assignment, the object I printed was the metal cherry pendant I had scanned earlier. At first, I chose to reproduce the original size at a 1:1 scale and used pink plastic to print a small model about 3 cm tall.
 在完成个人作业时，打印的对象是之前扫描的金属樱桃挂件。最开始我选择了一比一还原原本物体的大小，使用粉色的塑料打印出了高约3厘米的一个小模型。
