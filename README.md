@@ -41,5 +41,6 @@ For the second print, I adjusted the size of the object, enlarging the 3D model 
 ## 7
 During the printing process, my classmates and I also noticed some common issues. For example, after the printer finishes making an object, it is important to clean the nozzle of leftover material; otherwise, clogging may cause printing failures in the next run.
 和同学在打印过程中发现了一些共同的问题。比如，当3D打印机持续工作，打完一个物体应当清理出料口的废料，避免后续打印因为出料孔堵塞造成的打印失败。
-Overall, the 3D printing process taught me a lot and gave me a better understanding of materials. 
-总体而言，3D打印的过程让我收获很多知识，更加了解材质。
+## 8
+During the 3D scanning and printing process, I learned about some relatively easy-to-use 3D scanning software and a few tips for using it. At the same time, I learned how to handle the files of scanned 3D models, including checking their cross-sections to determine whether they are suitable for printing. I also learned how to operate a household desktop 3D printer. 
+在3D扫描和打印的过程中，我学习到了一些比较容易的3D扫描软件，以及它的一些使用小技巧。同时，我学习到了如何处理扫描好的3D模型的文件，学会查看它的切面来判断是否适合打印。我也学会了家用小型3D打印机的使用方法。
