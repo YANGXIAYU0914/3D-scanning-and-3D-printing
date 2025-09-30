@@ -17,7 +17,7 @@ Scanned object
 Scanning process
 
 <p align="center">
-<img src="file/2.jpg" alt="1" width="500"/>
+<img src="file/2.png" alt="1" width="500"/>
 </p>
 
 Scanned model
