@@ -8,7 +8,7 @@ This was my first attempt at using RealityScan to create a 3D scan of an object.
 <img src="file/3.jpg" alt="1" width="500"/>
 </p>
 <p align="center">
-Explanation of “Scanned object” in the PPT.
+Scanned object
 </p>
 
 
@@ -17,7 +17,7 @@ Explanation of “Scanned object” in the PPT.
 <img src="file/1.jpg" alt="1" width="500"/>
 </p>
 <p align="center">
-Explanation of “Scanning process” in the PPT.
+Scanning process
 </p>
 
 
@@ -26,7 +26,7 @@ Explanation of “Scanning process” in the PPT.
 <img src="file/2.png" alt="1" width="500"/>
 </p>
 <p align="center">
-Explanation of “Scanned model” in the PPT.
+Scanned model
 </p>
 
 
@@ -64,7 +64,7 @@ When working on my individual assignment, the object I printed was the metal che
 <img src="file/7.jpg" alt="1" width="500"/>
 </p>
 <p align="center">
-Explanation of “Printing process” in the PPT.
+Printing process
 </p>
 
 
