@@ -91,6 +91,9 @@ For the second print, I adjusted the size of the object, enlarging the 3D model 
 <p align="center">
 <img src="file/12.jpg" alt="1" width="500"/>
 </p>
+<p align="center">
+Explanation of “Final product” in the PPT.
+</p>
 
 ## 7
 During the printing process, my classmates and I also noticed some common issues. For example, after the printer finishes making an object, it is important to clean the nozzle of leftover material; otherwise, clogging may cause printing failures in the next run.
