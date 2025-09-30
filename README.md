@@ -94,7 +94,7 @@ For the second print, I adjusted the size of the object, enlarging the 3D model 
 <img src="file/12.jpg" alt="1" width="500"/>
 </p>
 <p align="center">
-Explanation of “Final product” in the PPT.
+Final product
 </p>
 
 ## 7
