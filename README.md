@@ -10,7 +10,10 @@ This was my first attempt at using RealityScan to create a 3D scan of an object.
 
 Scanned object
 
-![](file/1.jpg)
+<p align="center">
+<img src="file/1.jpg" alt="1" width="500"/>
+</p>
+
 Scanning process
 
 <p align="center">
@@ -40,24 +43,49 @@ When working on my individual assignment, the object I printed was the metal che
 
 在完成个人作业时，打印的对象是之前扫描的金属樱桃挂件。最开始我选择了一比一还原原本物体的大小，使用粉色的塑料打印出了高约3厘米的一个小模型。
 
-![](file/4.jpg)
-![](file/5.jpg)
-![](file/6.jpg)
-![](file/7.jpg)
+<p align="center">
+<img src="file/4.jpg" alt="1" width="500"/>
+</p>
+<p align="center">
+<img src="file/5.jpg" alt="1" width="500"/>
+</p>
+<p align="center">
+<img src="file/6.jpg" alt="1" width="500"/>
+</p>
+<p align="center">
+<img src="file/7.jpg" alt="1" width="500"/>
+</p>
+
+
 Printing process
 ## 5
 However, when I removed the supports, one side of the cherry stem broke because the supports were too firmly attached to the main body. I tried gluing the two parts back together, but the result was not very good.
+
 但在我拆除支撑的过程中，一侧的樱桃枝干断裂了，因为支撑与本体直接粘得太牢固了。我尝试用胶水把两部分拼合在一起，但效果一般。
-![](file/8.jpg)
-![](file/9.jpg)
+<p align="center">
+<img src="file/8.jpg" alt="1" width="500"/>
+</p>
+<p align="center">
+<img src="file/9.jpg" alt="1" width="500"/>
+</p>
+
 ## 6
 For the second print, I adjusted the size of the object, enlarging the 3D model to about 5 cm tall. This time, the outcome was better—the details were clearer, and the main body was not damaged when I removed the supports. Still, the supports were very difficult to take off! 
+
 第二次打印，我选择调整物体的大小，将3D模型调大至高约5厘米。这次打印的效果比之前好，细节能更清楚地被打印出来，并且这次在拆除支撑的过程中没有损坏本体。但支撑真的非常难拆除！
-![](file/10.jpg)
-![](file/11.jpg)
-![](file/12.jpg)
+<p align="center">
+<img src="file/10.jpg" alt="1" width="500"/>
+</p>
+<p align="center">
+<img src="file/11.jpg" alt="1" width="500"/>
+</p>
+<p align="center">
+<img src="file/12.jpg" alt="1" width="500"/>
+</p>
+
 ## 7
 During the printing process, my classmates and I also noticed some common issues. For example, after the printer finishes making an object, it is important to clean the nozzle of leftover material; otherwise, clogging may cause printing failures in the next run.
+
 和同学在打印过程中发现了一些共同的问题。比如，当3D打印机持续工作，打完一个物体应当清理出料口的废料，避免后续打印因为出料孔堵塞造成的打印失败。
 ## 8
 During the 3D scanning and printing process, I learned about some relatively easy-to-use 3D scanning software and a few tips for using it. At the same time, I learned how to handle the files of scanned 3D models, including checking their cross-sections to determine whether they are suitable for printing. I also learned how to operate a household desktop 3D printer. 
