@@ -7,20 +7,26 @@ This was my first attempt at using RealityScan to create a 3D scan of an object.
 <p align="center">
 <img src="file/3.jpg" alt="1" width="500"/>
 </p>
+<p align="center">
+Explanation of “Scanned object” in the PPT.
+</p>
 
-Scanned object
 
 <p align="center">
 <img src="file/1.jpg" alt="1" width="500"/>
 </p>
+<p align="center">
+Explanation of “Scanning process” in the PPT.
+</p>
 
-Scanning process
 
 <p align="center">
 <img src="file/2.png" alt="1" width="500"/>
 </p>
+<p align="center">
+Explanation of “Scanned model” in the PPT.
+</p>
 
-Scanned model
 
 ## 2
 I think perhaps improving photography skills can enhance the accuracy of the model. When taking photos around an object, the object should be centered in the viewfinder, and only part of the object should not be visible, as this can severely impact the scanning accuracy.I came across some posts on Xiaohongshu where some users use more professional equipment to take photos, even shooting in a studio. The models they scan turn out to be noticeably more accurate and refined.
@@ -55,9 +61,12 @@ When working on my individual assignment, the object I printed was the metal che
 <p align="center">
 <img src="file/7.jpg" alt="1" width="500"/>
 </p>
+<p align="center">
+Explanation of “Printing process” in the PPT.
+</p>
 
 
-Printing process
+
 ## 5
 However, when I removed the supports, one side of the cherry stem broke because the supports were too firmly attached to the main body. I tried gluing the two parts back together, but the result was not very good.
 
